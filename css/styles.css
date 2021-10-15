@@ -24,6 +24,10 @@ p {
   margin-top: 0px;
 }
 
+a {
+  color: rgb(91, 187, 247);
+}
+
 .sectionheader {
   margin: auto;
   padding-left: 33%;
@@ -42,7 +46,7 @@ p {
 .sectionheader h2 {
   margin-bottom: 0%;
   padding-top: 7%;
-  color: lightskyblue;
+  color: rgb(91, 187, 247);
   font-size: 30px;
 }
 
