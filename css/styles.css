@@ -1,0 +1,18 @@
+img {
+  display: block;
+  height: auto;
+  width: auto;
+  
+
+}
+
+.section {
+  float: center;
+  width: 50%;
+
+  border: lightgray;
+  border-width: 1px;
+  background-color: gray;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
