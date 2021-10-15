@@ -1,18 +1,23 @@
 img {
   display: block;
+  float: right;
   height: auto;
-  width: auto;
+  width: 25%;
   
 
 }
 
 .section {
-  float: center;
+  margin: auto;
   width: 50%;
-
-  border: lightgray;
-  border-width: 1px;
-  background-color: gray;
+  border: 2px solid gray;
+  background-color: lightgray;
   margin-bottom: 5px;
   box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
