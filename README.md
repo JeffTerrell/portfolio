@@ -2,7 +2,8 @@
 
 #### By Jeff Terrell
 
-#### A portfolio webpage for Jeff Terrell [JeffTerrell.github.io/portfolio-webpage](JeffTerrell.github.io/portfolio-webpage)
+#### A portfolio webpage for Jeff Terrell 
+([JeffTerrell.github.io/portfolio-webpage](JeffTerrell.github.io/portfolio-webpage))
 
 ## Technologies Used
 
