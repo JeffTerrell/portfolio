@@ -17,7 +17,7 @@ An informational webpage containing a general profile with personal background i
 ## Setup/Installation Requirements
 
 * Create a new directory on your local machine
-* From a terminal, navigate to the newly created directory and use the "Git clone" command to copy the repository from this address (https://github.com/JeffTerrell/portfolio)..
+* From a terminal, navigate to the newly created directory and use the "Git clone" command to copy the repository from this address (https://github.com/JeffTerrell/portfolio).
 * Navigate to the main level of the cloned directory.
 * Click to open index.html in a web browser.
 
